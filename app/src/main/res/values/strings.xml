@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">Add Note</string>
+    <string name="write_your_note_here">Write your note here...</string>
+    <string name="save">Save</string>
+    <string name="nt">Add Note</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="your_api_key">AIzaSyDrqymdAP0LZUKux8ndYB2DBpSRDVIyKNI</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_content_goes_here">Note content goes here</string>
+</resources>
